@@ -7,4 +7,4 @@ Instructions:
 
 -or visit www.junyechen.thecompletewebhosting.com/MathGame to play!
 
-Credits to: Issam, the instructor of "the Complete Web Development Course" (http://developmentisland.com/)
+Credits to: Issam, the instructor of Udemy course: the Complete Web Development (http://developmentisland.com/)
